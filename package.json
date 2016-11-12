@@ -29,8 +29,8 @@
   "license": "MIT",
   "readmeFilename": "README.md",
   "dependencies": {
-    "summernote-webpack-fix": "^0.8.1",
-    "codemirror": "^5.11.0"
+    "summernote": "^0.8.2",
+    "codemirror": "^5.20.2"
   },
   "peerDependencies": {
     "jquery": "^2.2.0 || ^3.0.0",
